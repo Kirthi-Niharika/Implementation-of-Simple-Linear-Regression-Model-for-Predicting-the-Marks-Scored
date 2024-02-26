@@ -8,6 +8,7 @@ To write a program to predict the marks scored by a student using the simple lin
 2. Anaconda – Python 3.7 Installation / Jupyter notebook
 
 ## Algorithm
+```
 1.To implement the linear regression using the standard libraries in the python.
 2.Use slicing function() for the x,y values.
 3.Using sklearn library import training , testing and linear regression modules.
@@ -15,7 +16,7 @@ To write a program to predict the marks scored by a student using the simple lin
 5.Using matplotlib library plot the graphs.
 6.Use xlabel for hours and ylabel for scores.
 7.End the porgram.
-
+```
 ## Program:
 ```
 /*
@@ -78,10 +79,13 @@ print("RMSE = ",rmse)
 ![simple linear regression model for predicting the marks scored](image.png)
 ![alt text](image-1.png)
 Prediction Values of Y
+
 ![alt text](image-2.png)
 Test Value of Y
+
 ![alt text](image-3.png)
 Values of MSE, MAE and RMSE
+
 ![alt text](image-4.png)
 ## Result:
 Thus the program to implement the simple linear regression model for predicting the marks scored is written and verified using python programming.
