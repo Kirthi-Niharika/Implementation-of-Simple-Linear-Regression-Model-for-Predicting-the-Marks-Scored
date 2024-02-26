@@ -77,13 +77,17 @@ print("RMSE = ",rmse)
 
 ## Output:
 ![simple linear regression model for predicting the marks scored](image.png)
+
 ![alt text](image-1.png)
+
 Prediction Values of Y
 
 ![alt text](image-2.png)
+
 Test Value of Y
 
 ![alt text](image-3.png)
+
 Values of MSE, MAE and RMSE
 
 ![alt text](image-4.png)
